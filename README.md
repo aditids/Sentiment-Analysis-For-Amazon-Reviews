@@ -24,4 +24,5 @@ By fine-tuning on a custom dataset specific to the task, the model can learn tas
    
 # Result
 <img width="663" alt="image" src="https://github.com/aditids/Sentiment-Analysis-For-Amazon-Reviews/assets/64319552/2ce70c46-89d7-41db-97d4-16c506190092">
+
 The results of sentiment analysis indicate that fine-tuning BERT outperforms both Logistic Regression and RNN models. The accuracy percentages demonstrate that Logistic Regression achieves 90.50%, RNN achieves 92.5%, while BERT achieves an impressive accuracy of 99%. These findings emphasize the superior performance of BERT in accurately predicting sentiment in text data, showcasing its ability to capture intricate patterns and nuances for sentiment analysis tasks.
